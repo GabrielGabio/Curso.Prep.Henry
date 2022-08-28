@@ -1,0 +1,11 @@
+Variable: Una variable es una etiqueta donde guardamos un valor para luego si queremos usar ese valor, podamos usarlo, llamarlo desde esa etiqueta.
+
+Strings: Un string es un tipo de dato, se define entre comillas y representa una bloque de texto.
+
+Funciones (argumentos, 'return'): Una funcion basicamente 'hace algo', calcula algo, retorna algo, puede hacer muchas cosas. A una funcion se le puede
+pasar argumentos, puede recibir datos y trabajar con ellos. Utilizando la palabra reservaba 'return' una funcion puede retornar un valor.
+
+Declaraciones 'if': La declaración 'if' se utiliza para corroborar que algo sea verdadero. Si es verdadero 'hace algo' sino sigue con el flujo de codigo.
+
+Valores booleanos 'true' y 'false': los valores booleanos son tipos de datos que provienen de la logica de Boole, solo tiene dos valores como el
+codigo binario, en este caso es 'verdadero' o 'falso'.

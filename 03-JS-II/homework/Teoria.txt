@@ -1,0 +1,5 @@
+'for': For es un bucle, recibe como parametros una condicion, inicia una variable y luego la incrementa en la mayoria de los casos. El bucle se 
+ejecutara hasta que cumple con las condiciones del for.
+
+'&&', '||' y '!': Los operadores logicos anidan expresiones, '&&' significa 'y', si y solo si ambas expresiones son verdaderas entonces devolvera true.
+En el caso de '||' significa 'o', con solo una expresion verdadera devuelve true. En el caso de '!', devolvera el opuesto a cualquier sentencia.
