@@ -1,0 +1,2 @@
+Arrays: Un array es un conjunto de datos, pueden ser datos booleanos, numericos, string, etc. Se los puede asignar a una variable, asi poder acceder
+al array.
