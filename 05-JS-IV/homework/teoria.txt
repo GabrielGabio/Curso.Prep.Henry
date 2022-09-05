@@ -1,0 +1,8 @@
+Objetos: Un objeto almacena datos como una matriz, la diferencia es que su "clave" no es un numero, sino cualquier nombre que le queramos dar.  
+Propiedades: Las propiedades son estas "claves" de los objetos. 
+Métodos: Los métodos se les dicen a las funciones que son guardados como valores de una propiedad  de un objeto. 
+Bucle for..in: El bucle "for" cambia cuando hablamos de objetos, nosotros queremos repasar todas las clave-valor del objeto, por el bucle "for"
+cambia a  ... for(let clave in objeto).
+Notacion de puntos vs notacion de corchetes: La mas facil de utilizar es la notacion por punto, pero tiene sus desventajas. Primero: necesita que 
+la clave sea legible, no acepta claves que empiezen con numeros, apostrophe ni guipnes, en cambio, la notacion por corchete recibe cualquier caracter.
+Segundo: Cuando usamos variables tendremos que utilizar si o si corchetes. 
