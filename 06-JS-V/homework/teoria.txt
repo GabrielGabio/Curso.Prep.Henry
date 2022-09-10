@@ -1,0 +1,6 @@
+Prototype: 
+    Cuando creamos un objeto con metodos, tendriamos que repetir los metodos en cada objeto, en cambio con prototype podemos asignarle un metodo
+por unica vez para que los demas objetos puedan usarlo. 
+
+Constructores de clases: 
+    El metodo constructor de clases recibe argumentos, y los instancia con this.
