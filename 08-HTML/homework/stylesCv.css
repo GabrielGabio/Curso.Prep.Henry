@@ -1,0 +1,45 @@
+body {
+  background-color: #1a1b41;
+  font-family: 'Arbutus', cursive;
+}
+#title {
+  background-color: #baff29;
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+#description {
+  background-color: #baff29;
+  text-align: center;
+  width: 700px;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+.divClass {
+  background-color: #baff29;
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+#perfil {
+  height: 400px;
+  width: 300px;
+  margin: 0 auto;
+}
+#perfil img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  display: flex;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+.enlaceGit{
+  text-decoration: none;
+  background-color: #FFFFFC;
+  border-radius: 10px;
+}

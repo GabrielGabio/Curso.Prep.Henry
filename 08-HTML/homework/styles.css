@@ -1,3 +1,8 @@
+body {
+  background-image: url("https://images.pexels.com/photos/255501/pexels-photo-255501.jpeg?cs=srgb&dl=pexels-pixabay-255501.jpg&fm=jpg");
+  background-size: cover;
+  background-position: center;
+}
 h1 {
   color: #012622;
 }
@@ -5,11 +10,12 @@ img {
   width: 400px;
 }
 #thirdDiv {
-  height: 600px;
   width: 500px;
+  margin: 10px auto;
   background-color: #003b36;
   padding: 50px;
   border: 10px solid #59114d;
+  text-align: center;
 }
 #spanId {
   font-size: 18px;
@@ -17,5 +23,25 @@ img {
 }
 
 .divClass {
-    
+  width: 400px;
+  border: 2px solid #59114D;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto;
+  background-color: #ECE5F0;
+}
+
+ul {
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: #59114D;
+}
+
+a:hover {
+  background-color: #E98A15;
 }
